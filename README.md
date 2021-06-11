@@ -113,3 +113,11 @@ the above migration steps.
    yarn install
    yarn start
    ```
+
+TODO:
+
+- [ ] build gov FE
+- [ ] basic query subgraph
+- [ ] ui + layout
+- [ ] copy
+- [ ] 
